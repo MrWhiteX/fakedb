@@ -1,0 +1,35 @@
+{
+    "users": [
+        { "id": 1, "email": "xyz@xyz.com" },
+        {
+            "id": 2,
+            "email": "test@email.com"
+        },
+        {
+            "id": 3,
+            "email": "test2@email.com"
+        }
+    ],
+    "bank-accounts": {
+        "accounts": [
+            {
+                "id": 1,
+                "balance": 100,
+                "accountNumber": 11111,
+                "withdraw": 0
+            },
+            {
+                "id": 2,
+                "balance": 300,
+                "accountNumber": 2222,
+                "withdraw": 0
+            },
+            {
+                "id": 3,
+                "balance": 500,
+                "accountNumber": 3333,
+                "withdraw": 0
+            }
+        ]
+    }
+}
